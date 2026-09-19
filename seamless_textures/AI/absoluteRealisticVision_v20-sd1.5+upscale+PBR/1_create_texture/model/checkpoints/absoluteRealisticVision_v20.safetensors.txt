@@ -1,0 +1,2 @@
+absoluteRealisticVision_v20.safetensors
+https://civitai.com/models/106886/absolute-realistic-vision-sd15-merge
